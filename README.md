@@ -19,35 +19,35 @@ No badges
 O curso de Programador Web ensinará como desenvolver e manter projetos para a web. Você aprenderá a utilizar linguagens de marcação, formatação e programação, bem como bancos de dados.
 
 - HTML
-    - Introdução ao desenvolvimento de páginas
-    - Formatação, Links e Listas
-    - Imagem, áudio, vídeos e novas funcionalidades
-    - Tabelas e Formulários
+    - [x] Introdução ao desenvolvimento de páginas
+    - [x] Formatação, Links e Listas
+    - [ ] Imagem, áudio, vídeos e novas funcionalidades
+    - [ ] Tabelas e Formulários
 - CSS
-    - Introdução
-    - Formatação de textos; Links, Listas e Media Query
-    - Formatação de página, imagens e tabelas e DIVs
+    - [ ] Introdução
+    - [ ] Formatação de textos; Links, Listas e Media Query
+    - [ ] Formatação de página, imagens e tabelas e DIVs
 - Lógica de Programação
-    - Introdução
-    - Operadores Relacionais e Lógicos e Desvio Condicional
-    - Laços de Repetição
-    - Vetores e Matrizes
-    - Funções e Parâmetros 
+    - [ ] Introdução
+    - [ ] Operadores Relacionais e Lógicos e Desvio Condicional
+    - [ ] Laços de Repetição
+    - [ ] Vetores e Matrizes
+    - [ ] Funções e Parâmetros 
 - JavaScript
-    - Introdução
-    - Eventos e validação de formulário
-    - Bibliotecas
+    - [ ] Introdução
+    - [ ] Eventos e validação de formulário
+    - [ ] Bibliotecas
 - Banco de Dados
-    - Conceitos básicos
-    - Modelos e Modelagem
-    - Modelo de Dados Relacional
-    - Normalização de Dados
+    - [ ] Conceitos básicos
+    - [ ] Modelos e Modelagem
+    - [ ] Modelo de Dados Relacional
+    - [ ] Normalização de Dados
 - Projeto de Sistemas Web
-    - Introdução
-    - Levantamento, especificação e análise de requisitos
-    - Modelagem, engenharia e validação de requisitos
-    - Metodologias e ferramentas para modelagem de sistemas Web
-    - Utilização da linguagem de modelagem unificada para projetos de sistema Web
+    - [ ] Introdução
+    - [ ] Levantamento, especificação e análise de requisitos
+    - [ ] Modelagem, engenharia e validação de requisitos
+    - [ ] Metodologias e ferramentas para modelagem de sistemas Web
+    - [ ] Utilização da linguagem de modelagem unificada para projetos de sistema Web
 
 ### :hammer_and_wrench: Ferramentas, Frameworks e/ou Bibliotecas
 
