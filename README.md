@@ -21,7 +21,7 @@ O curso de Programador Web ensinará como desenvolver e manter projetos para a w
 - HTML
     - [x] Introdução ao desenvolvimento de páginas
     - [x] Formatação, Links e Listas
-    - [ ] Imagem, áudio, vídeos e novas funcionalidades
+    - [x] Imagem, áudio, vídeos e novas funcionalidades
     - [ ] Tabelas e Formulários
 - CSS
     - [ ] Introdução

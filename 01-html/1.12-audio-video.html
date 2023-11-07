@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Áudio e Vídeo</title>
+    </head>
+    <body>
+        <header><h1>Áudio e Vídeo</h1></header>
+        <nav></nav>
+        <section>
+
+            <audio src="https://assets.mixkit.co/active_storage/sfx/2390/2390-preview.mp3" preload="metadata" controls width="10000000000"></audio>
+<!-- 
+            <audio controls>
+                <source src="audio.ogg" type="audio/ogg">
+                <source src="audio.mp3" type="audio/mpeg">
+                Your browser does not support the audio element.
+            </audio> -->
+
+            <br><br>
+
+            <video src="https://cdn.videvo.net/videvo_files/video/free/2022-11/large_watermarked/221017_01_Urban%20Football_4k_062_preview.mp4" width="400" height="225" poster="https://img.freepik.com/free-photo/close-up-athlete-playing-soccer_23-2150845600.jpg"  preload="metadata" controls></video>
+
+            <!-- <video src="video.ogg">
+                <track kind="subtitles" src="subtitles_en.vtt" srclang="en" label="English" />
+                <track kind="subtitles" src="subtitles_sv.vtt" srclang="sv" label="Svenska" />
+            </video> -->
+
+            <!-- <video  width="320" height="240"  controls>
+                <source src="video.mp4" type="video/mp4">
+                <source src="video.ogg" type="video/ogg">
+                Your browser does not support the video tag.
+            </video> -->
+
+            <!-- <video width="320" height="240" controls>
+                <source src="video.mp4" type="video/mp4">
+                <source src="video.ogg" type="video/ogg">
+                <track src="subtitles_en.vtt" kind="subtitles" srclang="en" label="English">
+                <track src="subtitles_no.vtt" kind="subtitles" srclang="no" label="Norwegian">
+            </video> -->
+
+            <!-- <video width="320" height="240" controls>
+                <source src="video.webm" type='video/webm; codecs="vp8,vorbis"' />
+                <source src="video.ogv" type='video/ogg; codecs="theora,vorbis"' />
+                <source src="video.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+                Your browser does not support the video tag.
+            </video> -->
+
+            <h3>Parâmetros: </h3>
+            <ul>
+                <li>src</li>
+                <li>...</li>
+                <li>autoplay</li>
+                <li>loop</li>
+                <li>muted</li>
+                <li>preload (none, metadata, auto)</li>
+                <li>...</li>
+                <li>controls</li>
+                <li>...</li>
+                <li>video: width and/or height</li>
+                <li>video: poster (capa)</li>
+                <li>video: track (legendas)</li>
+            </ul>
+            <p>Observe bem os formatos de arquivo suportados. Procurem colocar <b>MP3</b> que é um formato mais genérico para áudios e <b>MP4</b> para os vídeos. Além dos formatos populares, está em constante crescimento a adoção do formato <b>AV1</b> para vídeos.</p>
+
+            <h3>mdn web docs</h3>
+            <p><b>Nota: </b>O atributo <b>autoplay</b> tem precedência sobre o <b>preload</b>, pois se é necessário executar o áudio automaticamente, o navegador obviamente o baixará. Definindo ambos autoplay e preload é permitido pela especificação.</p>
+
+        </section>
+        <footer></footer>
+    </body>
+</html>
